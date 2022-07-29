@@ -1,0 +1,25 @@
+.card {
+    /* padding: 10px 0px 0px 0px; */
+    margin: 20px;
+    height: 250px;
+    width:350px;
+    padding: 20px;
+    
+}
+.card-body {
+    padding: 0px!important;
+    
+}
+p.card-text {
+    height: 90px;
+    overflow: overlay;
+}
+.cardFooter{
+   padding-top: 10px!important;
+}
+.allcard{
+    display: flex;
+}
+.cardFooter a{
+    text-decoration: none;
+}
